@@ -1,0 +1,39 @@
+body {
+ 	background-image: url("primo2.png"); 
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ 	background-size: cover;
+}
+
+h1{
+	color:white;
+	text-align: center;
+	letter-spacing: 3px
+}
+
+<style>
+body{
+	background:url("primo2.png")no-repeat center fixed;
+	background-size:cover;
+}
+table,th,td {
+	width:80%;
+	margin:auto;
+	border:1px solid white;
+	border-collapse:collapse;
+	text-align:justify;
+	font-size:25px;
+	table-layout:fixed;
+	background:black;
+	opacity:0.85;
+	color:white;
+	margin-top:100px;
+	font-family: arial
+}
+th,td{
+	padding:20px;
+	opacity:0.9;
+
+}
+</style>
